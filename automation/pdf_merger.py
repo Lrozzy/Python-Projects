@@ -11,5 +11,5 @@ for file in os.listdir(os.curdir):
 if counter == 0:
     print('No PDFs found in the current directory')
 else:
-    merger.write('merged.pdf')
+    merger.write('Leo_Rozanov_DPF-Pheno_travel_receipts.pdf')
     
