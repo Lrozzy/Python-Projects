@@ -1,1 +1,0 @@
-disabling voice commands during playback
